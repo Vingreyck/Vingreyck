@@ -39,10 +39,7 @@ class Developer {
 ## 📊 GitHub Analytics
 
 <!--START_SECTION:waka-->
-📦 Used in GitHub's Storage  
-🏆 Contributions in the Year 2025  
-📜 Public Repositories  
-🔑 Private Repositories  
+ 
 
 **🐱 My GitHub Data** 
 
