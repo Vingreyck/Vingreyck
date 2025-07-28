@@ -1,9 +1,8 @@
 <div align="center">
-<a href="[SEU_PORTFOLIO_URL]">
-  <img src="./terminal-animation.gif" alt="Vinícius Lima Santos - Flutter Developer" width="90%" />
+<a href="https://vingreyck.github.io">
+  <img src="./terminal-animation.gif" alt="Vinícius Lima Santos - Flutter Developer" width="800" height="300" />
 </a>
 </div>
-
 ---
 
 ## 👨‍💻 About Me
