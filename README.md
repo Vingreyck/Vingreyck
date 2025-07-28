@@ -2,7 +2,7 @@
 
 <!-- GIF de apresentação - substitua pela URL do seu GIF personalizado -->
 <a href="[SEU_PORTFOLIO_URL]">
-  <img src="https://via.placeholder.com/600x200/0D1117/00D9FF?text=Vinícius+Lima+Santos%0AFlutter+Developer" alt="Vinícius Lima Santos - Flutter Developer" />
+  <img src="https://via.placeholder.com/600x200/0D1117/02569B?text=Vinícius+Lima+Santos%0AFlutter+Developer" alt="Vinícius Lima Santos - Flutter Developer" />
 </a>
 
 </div>
@@ -12,19 +12,28 @@
 ## 👨‍💻 About Me
 
 ```dart
-const developer = {
-  name: "Vinícius Lima Santos",
-  role: "Flutter Developer",
-  location: "Itabaiana, Sergipe - Brazil",
-  education: "Sistemas de Informação - UFS",
-  code: ["Dart", "Flutter", "Python"],
-  technologies: {
-    mobile: ["Flutter", "Dart"],
-    backend: ["Python"],
-    tools: ["Git", "GitHub", "VS Code"],
-  },
-  currentFocus: "Building cross-platform mobile applications",
-};
+class Developer {
+  final String name = "Vinícius Lima Santos";
+  final String role = "Flutter Developer";
+  final String location = "Itabaiana, Sergipe - Brazil";
+  final String education = "Sistemas de Informação - UFS";
+  final List<String> primaryStack = ["Flutter", "Dart"];
+  final List<String> complementarySkills = ["C#", "JavaScript", "Python"];
+  
+  final Map<String, List<String>> technologies = {
+    "mobile": ["Flutter", "Dart"],
+    "web": ["C#", ".NET", "JavaScript", "HTML5", "CSS3"],
+    "backend": ["Python", "C#", ".NET Core"],
+    "tools": ["Git", "GitHub", "VS Code", "Visual Studio"],
+  };
+  
+  final String currentFocus = "Building cross-platform mobile applications with Flutter";
+  final String featuredProject = "SeeNet - AI-powered Flutter application";
+  
+  void introduceMyself() {
+    print("Passionate about creating beautiful and functional mobile experiences! 📱✨");
+  }
+}
 ```
 
 ## 📊 GitHub Analytics
@@ -62,20 +71,23 @@ Sunday       commits ██████░░░░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Dart         ████████████████████░░░░░   
-Python       ████░░░░░░░░░░░░░░░░░░░░░   
-JSON         ██░░░░░░░░░░░░░░░░░░░░░░░   
-YAML         █░░░░░░░░░░░░░░░░░░░░░░░░   
+Dart         ████████████████████░░░░░   82.5%
+C#           ████░░░░░░░░░░░░░░░░░░░░░   8.2%
+JavaScript   ██░░░░░░░░░░░░░░░░░░░░░░░   4.8%
+Python       █░░░░░░░░░░░░░░░░░░░░░░░░   2.8%
+HTML         █░░░░░░░░░░░░░░░░░░░░░░░░   1.7%
 ```
 
 **🔥 Editors:** 
 ```text
-VS Code      ████████████████████████░   
+VS Code      ████████████████████████░   95.2%
+Visual Studio ██░░░░░░░░░░░░░░░░░░░░░░░   4.8%
 ```
 
 **💻 Operating System:** 
 ```text
-Linux        ████████████████████████░   
+Linux        ████████████████░░░░░░░░░   68.3%
+Windows      ████████░░░░░░░░░░░░░░░░░   31.7%
 ```
 <!--END_SECTION:waka-->
 
@@ -91,34 +103,58 @@ Linux        ██████████████████████�
 
 ## 🛠️ Tech Stack
 
-<div align="center">
-
+### 📱 **Mobile Development (Primary Focus)**
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
 ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
+
+### 🌐 **Web Development (Complementary)**
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+
+### ⚙️ **Backend & Scripting**
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+
+### 🛠️ **Development Tools**
+![VS Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![VS Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
-</div>
+![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
 
 ## 🚀 Featured Projects
 
-### 📱 SeeNet
-Flutter application with AI integration featuring advanced UI/UX and clean architecture patterns.
+### 🌟 SeeNet - **Main Project**
+AI-powered Flutter application demonstrating advanced mobile development techniques, clean architecture, and innovative user experience design.
 
-**Tech Stack:** `Flutter` `Dart` `AI Integration`
+**Tech Stack:** `Flutter` `Dart` `AI Integration` `Clean Architecture`  
+**Highlights:** Advanced UI/UX, State Management, AI Features
 
 ### 🔗 OtherSide
-Peer-to-peer system developed in Python using socket programming for inter-process communication.
+Peer-to-peer communication system showcasing network programming and real-time data exchange capabilities.
 
 **Tech Stack:** `Python` `Socket Programming` `P2P Architecture`
 
-### ⚙️ AutomacaoClienteQueda
-Python application focused on data processing and external API integration.
+### 🏢 AjudAki
+Professional service management platform with comprehensive business logic implementation.
 
-**Tech Stack:** `Python` `API Integration` `Data Processing`
+**Tech Stack:** `C#` `.NET` `Web Development`
+
+### 🌍 EcoConecta
+Environmental awareness web application focused on sustainability and community engagement.
+
+**Tech Stack:** `HTML5` `CSS3` `JavaScript`
+
+### 💼 AutomacaoSalasWeb
+Business management web system featuring dashboard interfaces and data visualization.
+
+**Tech Stack:** `JavaScript` `Web Development`
+
+### ⚙️ AutomacaoClienteQueda
+Data processing application with API integration capabilities.
+
+**Tech Stack:** `Python` `API Integration`
 
 ## 🎓 Education
 
