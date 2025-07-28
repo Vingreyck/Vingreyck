@@ -1,10 +1,7 @@
 <div align="center">
-
-<!-- GIF de apresentação - substitua pela URL do seu GIF personalizado -->
 <a href="[SEU_PORTFOLIO_URL]">
-  <img src="./terminal-animation.gif" alt="Vinícius Lima Santos - Flutter Developer" />
+  <img src="./terminal-animation.gif" alt="Vinícius Lima Santos - Flutter Developer" width="90%" />
 </a>
-
 </div>
 
 ---
