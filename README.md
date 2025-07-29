@@ -118,6 +118,8 @@ Windows      ████████░░░░░░░░░░░░░░�
 
 ## 🚀 Featured Projects
 
+**[Explore meu portfolio completo](https://vingreyck.github.io/)**
+
 ### 🌟 SeeNet - **Main Project**
 AI-powered Flutter application demonstrating advanced mobile development techniques, clean architecture, and innovative user experience design.
 
@@ -170,7 +172,7 @@ Data processing application with API integration capabilities.
 ## 📫 Connect With Me
 
 <div align="center">
-
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://vingreyck.github.io/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vinícius-lima-santos-742b06273)
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Vingreyck)
 
