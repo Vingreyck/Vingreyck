@@ -118,7 +118,7 @@ Windows      ████████░░░░░░░░░░░░░░�
 
 ## 🚀 Featured Projects
 
-**[Explore meu portfolio completo](https://vingreyck.github.io/)**
+**[explore my complete portfolio](https://vingreyck.github.io/)**
 
 ### 🌟 SeeNet - **Main Project**
 AI-powered Flutter application demonstrating advanced mobile development techniques, clean architecture, and innovative user experience design.
